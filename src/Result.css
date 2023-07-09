@@ -1,0 +1,39 @@
+.card {
+    width: 1200px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.card-header {
+    display: flex;
+}
+
+.form-control {
+    border: 0.5px solid rgb(150, 150, 243);
+    background-color: rgb(245, 243, 240);
+}
+
+.border-1 {
+    background-color: rgb(176, 242, 242);
+}
+
+.btn-sm {
+    width: fit-content;
+    margin: 0;
+}
+
+.empty {
+    border: none;
+}
+
+.submit {
+    width: fit-content;
+}
+
+.heading {
+    margin-top: 1.2rem;
+}
+
+.submit1 {
+    font-size: larger;
+}
